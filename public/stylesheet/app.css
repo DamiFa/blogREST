@@ -1,0 +1,15 @@
+i.icon {
+    font-size: 1.5em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+.container.main img{
+    max-width: 100%;
+}
+
+#delete-form{
+    display: inline;
+}
